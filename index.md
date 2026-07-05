@@ -1,6 +1,6 @@
-# Tap & Track
+# Protein Tap
 
-A zero-friction drink and calorie habit tracker for iPhone.
+A zero-friction protein intake tracker for your phone.
 
 ---
 

@@ -1,4 +1,4 @@
-# Support — Tap & Track
+# Support — Protein Tap
 
 Need help with the app? We're happy to assist.
 
@@ -9,10 +9,10 @@ Email us at [info@buffalointeractive.ai](mailto:info@buffalointeractive.ai) and 
 ## Frequently Asked Questions
 
 **How do I change what I'm tracking?**
-Go to Settings (gear icon on the home screen) and tap your tracked drink to edit it.
+Go to Settings (gear icon on the home screen) and tap your tracked protein source to edit it.
 
 **Does my data sync across devices?**
-No — Tap & Track is local-only. Your data stays on your device and is not backed up to the cloud.
+No — Protein Tap is local-only. Your data stays on your device and is not backed up to the cloud.
 
 **How do I delete my data?**
 Deleting the app removes all data permanently. There is no account to delete.

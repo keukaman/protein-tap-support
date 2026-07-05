@@ -1,11 +1,11 @@
 # Privacy Policy
 
-**Tap & Track**
+**Protein Tap**
 Last updated: June 14, 2026
 
 ## Overview
 
-Tap & Track is a personal drink tracking app. All data you enter is
+Protein Tap is a personal protein intake tracking app. All data you enter is
 stored locally on your device and is never transmitted to any server,
 sold, or shared.
 
@@ -13,9 +13,9 @@ sold, or shared.
 
 **We do not collect any personal data.**
 
-Everything you log in Tap & Track — your drink choice, serving counts,
-calorie totals, and usage history — is stored only in a local database on
-your iPhone. It never leaves your device.
+Everything you log in Protein Tap — your protein sources, serving counts,
+gram totals, and usage history — is stored only in a local database on
+your phone. It never leaves your device.
 
 Specifically, the app does not collect:
 
@@ -28,7 +28,7 @@ Specifically, the app does not collect:
 
 ## Third-Party SDKs
 
-Tap & Track uses Apple's StoreKit (via RevenueCat) to process the
+Protein Tap uses Apple's StoreKit (via RevenueCat) to process the
 one-time in-app purchase. When you make a purchase, Apple handles the
 transaction under [Apple's Privacy Policy](https://www.apple.com/legal/privacy/). We receive only a
 confirmation that the purchase was successful — no payment details, no
@@ -39,14 +39,14 @@ included in this app.
 
 ## Data Storage & Deletion
 
-All app data (drink logs, settings) lives in a SQLite database on your
+All app data (protein logs, settings) lives in a SQLite database on your
 device, inside the app's private storage. Deleting the app from your
-iPhone permanently deletes all data. There is no cloud backup and no
+phone permanently deletes all data. There is no cloud backup and no
 server-side copy.
 
 ## Children
 
-Tap & Track does not knowingly collect data from anyone, including
+Protein Tap does not knowingly collect data from anyone, including
 children. Because the app collects no data at all, no special provisions
 are required under COPPA or similar laws.
 
