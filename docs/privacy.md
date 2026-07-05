@@ -1,7 +1,7 @@
 # Privacy Policy
 
 **Protein Tap**
-Last updated: June 14, 2026
+Last updated: July 5, 2026
 
 ## Overview
 
